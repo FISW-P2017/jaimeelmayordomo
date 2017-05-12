@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.iteso.jaimeelmayordomo.MainActivity">
+
+    <Button
+        android:id="@+id/button"
+        style="@android:style/Widget.DeviceDefault.Button"
+        android:layout_width="87dp"
+        android:layout_height="49dp"
+        android:background="@android:color/holo_blue_light"
+        android:elevation="11dp"
+        android:text="Cuentas"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="132dp"
+        tools:layout_editor_absoluteY="124dp" />
+
+</android.support.constraint.ConstraintLayout>
