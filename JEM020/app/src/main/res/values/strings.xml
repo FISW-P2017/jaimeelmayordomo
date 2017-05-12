@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JEM020</string>
+    <string name="borrar_pago">Borrar Pago</string>
+    <string name="textview">TextView</string>
+</resources>
